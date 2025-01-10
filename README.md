@@ -1,8 +1,6 @@
 ## Hello World 👋 I am Hanna
 
-<!--**Hanna-kodehode/Hanna-kodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
+I am a 23 year old programming student, living at the north-west coast of Norway.
 
 - 🔭 I’m currently working my portfolio!
 - 🌱 I’m currently learning Java Script Advanced at JobLoop's Kodehode course!
@@ -22,3 +20,6 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
+<!--**Hanna-kodehode/Hanna-kodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started: -->
