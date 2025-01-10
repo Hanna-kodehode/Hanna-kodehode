@@ -1,4 +1,4 @@
-## 👋 Hello World,I am Hanna
+## 👋 Hello World, I am Hanna
 
 I am a 23 year old programming student, living at the north-west coast of Norway.
 
