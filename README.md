@@ -2,8 +2,9 @@
 
 I am a 23 year old programming student, living at the north-west coast of Norway.
 
-- 🔭 I’m currently working my portfolio!
-- 🌱 I’m currently learning Java Script Advanced at JobLoop's Kodehode course!
+- 🔭 Currently working my portfolio!
+- 🌱 Currently learning Java Script Advanced at JobLoop's Kodehode course!
+  -⚡Fun fact: I love cosplay, fiction and leatherwork!
 
 ### What I Use:
 
@@ -19,7 +20,7 @@ I am a 23 year old programming student, living at the north-west coast of Norway
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+-  ...-->
 <!--**Hanna-kodehode/Hanna-kodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
