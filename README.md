@@ -3,7 +3,7 @@
 I am a 23 year old programming student, living at the north-west coast of Norway.
 
 - 🔭 Currently working my portfolio!
-- 🌱 Currently learning Java Script Advanced at JobLoop's Kodehode course!
+- 🌱 Currently learning React at JobLoop's Kodehode course!
 - ⚡ Fun fact: I love cosplay, fiction and leatherwork!
 - 📫 How to reach me: hanna.kodehode@gmail.com
 
